@@ -56,6 +56,12 @@ do
             Console.Write(" ");
         }        
 
+        //linea central
+        for (int k = 1; k <= veces; k++)
+        {
+            Console.WriteLine("Esto se acaba de agregar");
+        }
+
         Console.WriteLine("*");
         
     }
